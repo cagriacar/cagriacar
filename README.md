@@ -1,8 +1,6 @@
-# cagriacar
-
 ### Merhaba ben Cagri Acar , Frontend Developer 👋
 
-[![Website](http://www.cagriacar.com/)](https://cagriacar.com)
+[[Website](http://www.cagriacar.com/)](https://cagriacar.com)
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
@@ -53,3 +51,4 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 <br />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cagriacar)](https://github.com/anuraghazra/github-readme-stats)
