@@ -1,7 +1,7 @@
 ### Merhaba ben Cagri Acar , Frontend Developer 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cagriacar&theme=dark&show_icons=true)
-</ br>
+
 [[Website](http://www.cagriacar.com/)](https://cagriacar.com)
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
