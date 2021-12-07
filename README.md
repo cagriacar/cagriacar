@@ -1,7 +1,5 @@
 ### Merhaba ben Cagri Acar , Frontend Developer 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cagriacar&theme=dark&show_icons=true)
-
 [[Website](http://www.cagriacar.com/)](https://cagriacar.com)
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
@@ -9,6 +7,8 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cagriacar&theme=dark&show_icons=true)
 
 ### Connect with me:
 
