@@ -8,7 +8,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cagriacar&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cagriacar&theme=darcula&show_icons=true)
 
 ### Connect with me:
 
